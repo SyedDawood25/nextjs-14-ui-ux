@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Check from "../public/assets/Check.svg";
+import Check from "../public/assets/check.svg";
 
 const Pricing = () => {
   return (

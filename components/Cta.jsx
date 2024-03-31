@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Arrow from "../public/assets/Arrow.png";
+import Arrow from "../public/assets/arrow.png";
 
 const Cta = () => {
   return (
